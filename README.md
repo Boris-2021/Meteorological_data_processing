@@ -1,0 +1,2 @@
+# Meteorological_data_processing
+这个项目是一个Jupyter notebook的集合，专门学习处理各种气象资料数据。各种气象数据格式如grib，nc，micaps，geojson的数据处理解析转换。
